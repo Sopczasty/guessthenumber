@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_global_ranking.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\fragment_global_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_game.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\fragment_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_ranking.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\fragment_ranking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_logo_screen.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\activity_logo_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_row.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\score_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\switch_item.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\switch_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_screen.xml",
+        "source": "C:\\Users\\sopek\\AndroidStudioProjects\\Testing\\app\\src\\main\\res\\layout\\activity_main_screen.xml"
+    }
+]
